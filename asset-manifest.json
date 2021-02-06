@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/funkyPortfolio/static/css/main.eae93765.chunk.css",
+    "main.js": "/funkyPortfolio/static/js/main.75f48d7e.chunk.js",
+    "main.js.map": "/funkyPortfolio/static/js/main.75f48d7e.chunk.js.map",
+    "runtime-main.js": "/funkyPortfolio/static/js/runtime-main.11fd25d9.js",
+    "runtime-main.js.map": "/funkyPortfolio/static/js/runtime-main.11fd25d9.js.map",
+    "static/js/2.9c6ee0bb.chunk.js": "/funkyPortfolio/static/js/2.9c6ee0bb.chunk.js",
+    "static/js/2.9c6ee0bb.chunk.js.map": "/funkyPortfolio/static/js/2.9c6ee0bb.chunk.js.map",
+    "static/js/3.f3c2fadb.chunk.js": "/funkyPortfolio/static/js/3.f3c2fadb.chunk.js",
+    "static/js/3.f3c2fadb.chunk.js.map": "/funkyPortfolio/static/js/3.f3c2fadb.chunk.js.map",
+    "index.html": "/funkyPortfolio/index.html",
+    "static/css/main.eae93765.chunk.css.map": "/funkyPortfolio/static/css/main.eae93765.chunk.css.map",
+    "static/js/2.9c6ee0bb.chunk.js.LICENSE.txt": "/funkyPortfolio/static/js/2.9c6ee0bb.chunk.js.LICENSE.txt",
+    "static/media/Eda.f97331dc.png": "/funkyPortfolio/static/media/Eda.f97331dc.png",
+    "static/media/EduqSpeech.869847d8.png": "/funkyPortfolio/static/media/EduqSpeech.869847d8.png",
+    "static/media/LeclairScreenshot.900aa58b.png": "/funkyPortfolio/static/media/LeclairScreenshot.900aa58b.png",
+    "static/media/OtmetkyScreenshot.aa0b51a8.png": "/funkyPortfolio/static/media/OtmetkyScreenshot.aa0b51a8.png",
+    "static/media/SearcherScreenshot.5cf1db38.png": "/funkyPortfolio/static/media/SearcherScreenshot.5cf1db38.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11fd25d9.js",
+    "static/js/2.9c6ee0bb.chunk.js",
+    "static/css/main.eae93765.chunk.css",
+    "static/js/main.75f48d7e.chunk.js"
+  ]
+}
