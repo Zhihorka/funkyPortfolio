@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/funkyPortfolio/static/css/main.9963ffcf.chunk.css",
-    "main.js": "/funkyPortfolio/static/js/main.09c108d0.chunk.js",
-    "main.js.map": "/funkyPortfolio/static/js/main.09c108d0.chunk.js.map",
-    "runtime-main.js": "/funkyPortfolio/static/js/runtime-main.44f8aa9d.js",
-    "runtime-main.js.map": "/funkyPortfolio/static/js/runtime-main.44f8aa9d.js.map",
-    "static/js/2.40b47abd.chunk.js": "/funkyPortfolio/static/js/2.40b47abd.chunk.js",
-    "static/js/2.40b47abd.chunk.js.map": "/funkyPortfolio/static/js/2.40b47abd.chunk.js.map",
-    "static/js/3.e5f58160.chunk.js": "/funkyPortfolio/static/js/3.e5f58160.chunk.js",
-    "static/js/3.e5f58160.chunk.js.map": "/funkyPortfolio/static/js/3.e5f58160.chunk.js.map",
+    "main.css": "/funkyPortfolio/static/css/main.1e6e1a7f.chunk.css",
+    "main.js": "/funkyPortfolio/static/js/main.8d647f85.chunk.js",
+    "main.js.map": "/funkyPortfolio/static/js/main.8d647f85.chunk.js.map",
+    "runtime-main.js": "/funkyPortfolio/static/js/runtime-main.c212e25b.js",
+    "runtime-main.js.map": "/funkyPortfolio/static/js/runtime-main.c212e25b.js.map",
+    "static/js/2.b1b9f4be.chunk.js": "/funkyPortfolio/static/js/2.b1b9f4be.chunk.js",
+    "static/js/2.b1b9f4be.chunk.js.map": "/funkyPortfolio/static/js/2.b1b9f4be.chunk.js.map",
+    "static/js/3.c0dca0e5.chunk.js": "/funkyPortfolio/static/js/3.c0dca0e5.chunk.js",
+    "static/js/3.c0dca0e5.chunk.js.map": "/funkyPortfolio/static/js/3.c0dca0e5.chunk.js.map",
     "index.html": "/funkyPortfolio/index.html",
-    "static/css/main.9963ffcf.chunk.css.map": "/funkyPortfolio/static/css/main.9963ffcf.chunk.css.map",
-    "static/js/2.40b47abd.chunk.js.LICENSE.txt": "/funkyPortfolio/static/js/2.40b47abd.chunk.js.LICENSE.txt",
+    "static/css/main.1e6e1a7f.chunk.css.map": "/funkyPortfolio/static/css/main.1e6e1a7f.chunk.css.map",
+    "static/js/2.b1b9f4be.chunk.js.LICENSE.txt": "/funkyPortfolio/static/js/2.b1b9f4be.chunk.js.LICENSE.txt",
     "static/media/Eda.f97331dc.png": "/funkyPortfolio/static/media/Eda.f97331dc.png",
     "static/media/EduqSpeech.869847d8.png": "/funkyPortfolio/static/media/EduqSpeech.869847d8.png",
     "static/media/LeclairScreenshot.900aa58b.png": "/funkyPortfolio/static/media/LeclairScreenshot.900aa58b.png",
     "static/media/OtmetkyScreenshot.aa0b51a8.png": "/funkyPortfolio/static/media/OtmetkyScreenshot.aa0b51a8.png",
     "static/media/SearcherScreenshot.5cf1db38.png": "/funkyPortfolio/static/media/SearcherScreenshot.5cf1db38.png",
-    "static/media/resume.817f7843.pdf": "/funkyPortfolio/static/media/resume.817f7843.pdf"
+    "static/media/resume.817f7843.pdf": "/funkyPortfolio/static/media/resume.817f7843.pdf",
+    "static/media/triplefdemo.a1509e4e.png": "/funkyPortfolio/static/media/triplefdemo.a1509e4e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.44f8aa9d.js",
-    "static/js/2.40b47abd.chunk.js",
-    "static/css/main.9963ffcf.chunk.css",
-    "static/js/main.09c108d0.chunk.js"
+    "static/js/runtime-main.c212e25b.js",
+    "static/js/2.b1b9f4be.chunk.js",
+    "static/css/main.1e6e1a7f.chunk.css",
+    "static/js/main.8d647f85.chunk.js"
   ]
 }
