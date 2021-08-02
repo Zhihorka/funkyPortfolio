@@ -1,0 +1,74 @@
+.wrapper{
+    overflow-x: hidden;
+}
+
+.wrapper::-webkit-scrollbar{
+    display: none;
+}
+
+.firstPage{
+    width: 100vw;
+    height: 100vh;
+    background: #16519F;
+    display: inline-block;
+}
+
+.secondPage{
+    width: 100vw;
+    height: 100vh;
+    background:#F07E74;
+    display: inline-block;
+}
+
+.practicePage{
+    width: 100vw;
+    height: 100vh;
+    background-image: url('./customCardBackground.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    display: inline-block;
+}
+
+
+.thirdPage{
+    width: 100vw;
+    height: 100vh;
+    background-color:  #F8DD2E;
+    display: inline-block;
+}
+
+.thirdPageTwo{
+    width: 100vw;
+    height: 100vh;
+    background-color:  #F8DD2E;
+    display: inline-block;
+}
+
+.thirdPageThree{
+    width: 100vw;
+    height: 100vh;
+    background-color:  #F8DD2E;
+    display: inline-block;
+}
+
+.thirdPageFour{
+    width: 100vw;
+    height: 100vh;
+    background-color:  #F8DD2E;
+    display: inline-block;
+}
+
+.thirdPageFive{
+    width: 100vw;
+    height: 100vh;
+    background-color:  #F8DD2E;
+    display: inline-block;
+}
+
+.finalPage{
+    width: 100vw;
+    height: 100vh;
+    background-color: #4FCBE9;
+    display: inline-block;
+}

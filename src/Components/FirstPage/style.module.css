@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap');
+
+@media screen and (min-width: 1280px) {
+.wrapper{
+    font-family: 'Roboto Mono', monospace;
+    background-color: #f3f3f3;
+    width: 60%;
+    height: 70%;
+    border-radius: 25px;
+    left: 0;
+    right: 0; 
+    margin: 0;
+    margin-left: auto; 
+    margin-right: auto;
+    position: relative;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 8fr 1fr;
+    gap: 0px 0px;
+    grid-template-areas:
+      "."
+      "Content"
+      "ArrowDown";
+    overflow-y: hidden;
+}
+
+.arrowDown{
+    grid-area: ArrowDown;
+    text-align: center;
+}
+
+.greetings{
+    color: #16519F;
+    font-size: 3rem;
+    text-align: center;
+    margin: 10px;
+}
+
+.description{
+    color: #16519F;
+    font-size: 3rem;
+    text-align: center;
+    margin: 10px;
+    padding-bottom: 5%;
+}
+
+
+
+
+.linkButton{
+    font-size: 1.5rem;
+    text-transform: none;
+    font-family: 'Roboto Mono';
+    color: #16519F;
+}
+
+
+.linkButton:hover{
+    font-size: 1.5rem;
+    text-transform: none;
+    font-family: 'Roboto Mono';
+    color: #F29B0E;
+}
+
+
+
+
+
+
+.content{
+    grid-area: Content;
+    position: relative;
+    top: 20%;
+
+}
+
+
+.buttonWrapper{
+    width: 100%;
+    height: auto;
+    overflow-y: hidden;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    gap: 0px 0px;
+    grid-template-areas:
+      ". . . . .";
+}
+
+
+}
+
+@media screen and (max-width: 1280px) {
+    .wrapper{
+        font-family: 'Roboto Mono', monospace;
+        background-color: #f3f3f3;
+        width: 90%;
+        height: 90%;
+        border-radius: 25px;
+        left: 0;
+        right: 0; 
+        margin: 0;
+        margin-left: auto; 
+        margin-right: auto;
+        position: relative;
+        top: 50%;
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+        scroll-behavior: smooth;
+        overflow-x: hidden;
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 8fr 1fr;
+        gap: 0px 0px;
+        grid-template-areas:
+          "."
+          "Content"
+          "ArrowDown";
+        overflow-y: hidden;
+    }
+
+    .arrowDown{
+        grid-area: ArrowDown;
+        text-align: center;
+    }
+    
+    .greetings{
+        color: #16519F;
+        font-size: 4vh;
+        text-align: center;
+    }
+    
+    .description{
+        color: #16519F;
+        font-size: 4vh;
+        text-align: center;
+    }
+    
+
+    
+    .content{
+        grid-area: Content;
+        position: relative;
+        top: 5%;
+    
+    }
+    
+
+
+
+    .buttonWrapper{
+        width: 100%;
+        height: auto;
+        overflow-y: hidden;
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+        gap: 0px 0px;
+        grid-template-areas:
+        ". ", 
+        ". ",
+        ". ",
+        ". ",
+        ". ";
+    }
+}
